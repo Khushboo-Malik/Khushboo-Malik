@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/180tvh6g8sgvapFxvjsK1rUm2l2VFKP3H0lPVdlmKTFI/edit?usp=sharing](https://docs.google.com/document/d/180tvh6g8sgvapFxvjsK1rUm2l2VFKP3H0lPVdlmKTFI/edit?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **:Google’s name was the fruit of a spelling mistake**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboo-malik&show_icons=true&locale=en" alt="khushboo-malik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushboo-malik&" alt="khushboo-malik" /></p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jg3aptvojkohc42yskrqm465zi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
