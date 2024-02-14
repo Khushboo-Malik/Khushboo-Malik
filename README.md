@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Khushboo Malik</h1>
 <h3 align="center">I am a passionate and hardworking backend developer from India who loves building interesting projects, coding and contributing to open-source projects online</h3>
 
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+ Khushboo Malik;This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
+
 <img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboo-malik&label=Profile%20views&color=0e75b6&style=flat" alt="khushboo-malik" /> </p>
@@ -33,3 +39,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushboo-malik&" alt="khushboo-malik" /></p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jg3aptvojkohc42yskrqm465zi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
