@@ -38,5 +38,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushboo-malik&" alt="khushboo-malik" /></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jg3aptvojkohc42yskrqm465zi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
