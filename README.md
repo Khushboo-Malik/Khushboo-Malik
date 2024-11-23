@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mail.khushboomalik@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/180tvh6g8sgvapFxvjsK1rUm2l2VFKP3H0lPVdlmKTFI/edit?usp=sharing](https://docs.google.com/document/d/180tvh6g8sgvapFxvjsK1rUm2l2VFKP3H0lPVdlmKTFI/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1Ur1dq0e8li8r1tyd8SBm9ONAqeCkGt3INcvldq112VE/edit?usp=sharing](https://docs.google.com/document/d/1Ur1dq0e8li8r1tyd8SBm9ONAqeCkGt3INcvldq112VE/edit?usp=sharing)
 
 - ⚡ Fun fact **:Google’s name was the fruit of a spelling mistake**
 
